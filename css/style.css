@@ -155,6 +155,12 @@
 	height: 200px;
 	margin: 40px 0;
 }
+.para1{
+	background-color: red;
+	width: auto;
+	height: 500px;
+	margin: 20px 0;
+}
 .image{
 	background-color: red;
 	width: auto;
