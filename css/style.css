@@ -1,0 +1,384 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.container{
+	width: 1340px;
+	margin: 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.flex-banner{
+	display: flex;
+	flex: 0 0 auto;
+	margin-left: -15px;
+	margin-right: -15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	justify-content: space-around;
+}
+.flex-container{
+	display: flex;
+	flex: 0 0 auto;
+	flex-wrap: nowrap;
+	margin-left: -15px;
+	margin-right: -15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.flex-portfolio{
+	display: flex;
+	flex: 0 0 auto;
+	flex-wrap: wrap;
+	margin-left: -15px;
+	margin-right: -15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	justify-content: space-around;
+}
+
+.flex-header{
+	display: flex;
+	flex: 0 0 auto;
+	margin-left: -15px;
+	margin-right: -15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	justify-content: space-between;
+}
+.flex-footer{
+	display: flex;
+	flex: 0 0 auto;
+	margin-left: -15px;
+	margin-right: -15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	justify-content: space-around;
+}
+.flex-item1{
+	width: 8.33%;
+	flex: 0 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.flex-item2{
+	width: 16.66%;
+	flex: 0 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.flex-item3{
+	width: 25%;
+	flex: 0 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.flex-item4{
+	width: 33.33%;
+	flex: 0 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.flex-item5{
+	width: 41.66%;
+	flex: 0 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.flex-item6{
+	width: 50%;
+	flex: 0 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.flex-item7{
+	width: 58.33%;
+	flex: 0 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.flex-item8{
+	width: 66.66%;
+	flex: 0 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.flex-item9{
+	width: 75%;
+	flex: 0 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.flex-item10{
+	width: 83.33%;
+	flex: 0 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.flex-item11{
+	width: 91.66%;
+	flex: 0 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.flex-item12{
+	width: 100%;
+	flex: 0 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.header{
+	background-color: black;
+	height: 80px;
+	width: auto;
+}
+.gp{
+	background-color: red;
+	width: auto;
+	height: 40px;
+	margin: 20px 0;
+}
+.nav-menus{
+	background-color: red;
+	width: auto;
+	height: 40px;
+	margin: 20px 0;
+}
+.getstarted{
+	background-color: red;
+	width: auto;
+	height: 40px;
+	margin: 20px 0;
+
+}
+.banner{
+	width: auto;
+	background-color: red;
+	padding: 80px 0;
+}
+.text{
+	margin: 20px 0;
+	background-color: black;
+	width: auto;
+	height: 200px;
+	padding: 0 200px;
+	margin-left: 500px;
+}
+.icons{
+	width: auto;
+	background-color: black;
+	height: 100px;
+	margin: 20px 0;
+}
+.content{
+	background-color: black;
+	height: 500px;
+	width: auto;
+}
+.para{
+	background-color: red;
+	width: auto;
+	height: 400px;
+	margin: 20px 0;
+}
+.image{
+	background-color: red;
+	width: auto;
+	height: 400px;
+	margin: 20px 0;
+}
+.clients{
+	background-color: red;
+	height: 150px;
+	width: auto;
+}
+.client1{
+    background-color: black;
+	width: auto;
+	height: 100px;
+	margin: 20px 0;
+}
+.content1{
+	background-color: black;
+	height: 500px;
+	width: auto;
+}
+.services{
+	background-color: red;
+	height: 1000px;
+	width: auto;
+}
+.service1{
+    background-color: black;
+	width: auto;
+	height: 450px;
+	margin: 20px 0;
+}
+.banner2{
+	background-color: black;
+	width: auto;
+	padding: 80px 0;
+}
+.text1{
+	margin: 20px 0;
+	background-color: red;
+	width: auto;
+	height: 200px;
+	margin-left: 500px;
+	padding-left: 500px;
+}
+.portfolio{
+	background-color: red;
+	width: auto;
+	height: 1750px;
+}
+.portfolio1{
+	margin: 20px 0;
+	background-color: black;
+	width: auto;
+	height: 500px;
+}
+.portfolio2{
+	margin: 20px 0;
+	background-color: black;
+	width: auto;
+	height: 300px;
+}
+.portfolio3{
+	margin: 20px 0;
+	background-color: black;
+	width: auto;
+	height: 350px;
+}
+.portfolio4{
+	margin: 20px 0;
+	background-color: black;
+	width: auto;
+	height: 700px;
+}
+.portfolio5{
+	margin-top: 100px;
+	background-color: black;
+	width: auto;
+	height: 700px;
+}
+.portfolio6{
+	margin: 20px 0;
+	background-color: black;
+	width: auto;
+	height: 350px;
+}
+.portfolio7{
+	margin: 20px 0;
+	background-color: black;
+	width: auto;
+	height: 350px;
+}
+.portfolio8{
+	margin: 20px 0;
+	background-color: black;
+	width: auto;
+	height: 350px;
+}
+.portfolio9{
+	margin: 20px 0;
+	background-color: black;
+	width: auto;
+	height: 350px;
+}
+.content2{
+	background-color: black;
+	height: 500px;
+	width: auto;
+}
+.banner3{
+	background-color: red;
+	width: auto;
+	padding: 80px 0;
+}
+.text2{
+	margin: 20px 0;
+	background-color: black;
+	width: auto;
+	height: 200px;
+	margin-left: 500px;
+	padding-left: 500px;
+}
+.authors{
+	height: 500px;
+	background-color: black;
+	width: auto;
+}
+.author1{
+	width: auto;
+	height: 450px;
+	background-color: red;
+	margin: 20px 0;
+}
+.contact{
+	height: 1000px;
+	background-color: red;
+	width: auto;
+
+}
+.map{
+	width: auto;
+	background-color: black;
+	height: 500px;
+	margin: 20px 0;
+}
+.contactdetails{
+	width: auto;
+	background-color: black;
+	height: 400px;
+	margin: 20px 0;
+}
+.personaldetails{
+	width: auto;
+	background-color: black;
+	height: 400px;
+	margin: 20px 0;
+}
+.content3{
+	width: auto;
+	height: 400px;
+	background-color:black;
+}
+.gp1{
+	width: auto;
+	height: 350px;
+	background-color: red;
+	margin: 20px 0;
+}
+.links{
+	width: auto;
+	height: 350px;
+	background-color: red;
+	margin: 20px 0;
+}
+.services1{
+	width: auto;
+	height: 350px;
+	background-color: red;
+	margin: 20px 0;
+}
+.newsletter{
+	width: auto;
+	height: 350px;
+	background-color: red;
+	margin: 20px 0;
+}
+.footer{
+	background-color: red;
+	height: 80px;
+	width: auto;
+}
+.copywright{
+	background-color: black;
+	width: auto;
+	height: 40px;
+	margin: 20px 0;
+}
+
+}
